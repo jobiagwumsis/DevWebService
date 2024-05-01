@@ -1,0 +1,25 @@
+{
+  "name": "devwebservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobiagwumsis/DevWebService.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobiagwumsis/DevWebService/issues"
+  },
+  "homepage": "https://github.com/jobiagwumsis/DevWebService#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {}
+}
